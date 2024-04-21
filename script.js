@@ -97,3 +97,5 @@ while(true){
     }
 }
 }
+
+executar();
